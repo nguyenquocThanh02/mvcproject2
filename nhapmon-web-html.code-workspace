@@ -1,0 +1,64 @@
+{
+	"folders": [
+		{
+			"path": "D:\\nhapmon-web-html"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\band_myself"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\shope"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\room"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\javascript"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\learningJS"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\learningJS2"
+		},
+		{
+			"path": "D:\\nhapmon-web-html\\testJS"
+		},
+		{
+			"path": "D:\\web-do-an"
+		},
+		{
+			"path": "..\\..\\..\\php-code"
+		},
+		{
+			"path": "D:\\Python"
+		},
+		{
+			"path": "D:\\React-Js"
+		},
+		{
+			"path": "D:\\react-webpack"
+		},
+		{
+			"path": "D:\\reactjs"
+		},
+		{
+			"path": "D:\\demo-github"
+		},
+		{
+			"path": "D:\\demo-git2"
+		},
+		{
+			"path": "..\\myweb"
+		},
+		{
+			"path": "..\\mvc-model"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "nhapmon-web-html"
+	}
+}
